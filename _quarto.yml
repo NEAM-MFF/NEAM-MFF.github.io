@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  #title: 
+  favicon: "LOGO_orange.png"
+  navbar:
+    logo: 'N_EAM.png'
+    logo-alt: 'NEAM'
+    left:
+      - href: research
+        text: Research
+      - href: people
+        text: People
+      - href: publications
+        text: Publications
+      - href: contact
+        text: Contact
+    #right:
+
+format:
+  html:
+    theme: lux
+    linkcolor: green

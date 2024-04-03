@@ -1,0 +1,25 @@
+---
+#title: "Neural ensembles and memory"
+#subtitle: "Research group in computational neuroscience"
+format: html
+css: styles.css
+
+about:
+  id: split-page
+  template: marquee
+  image: brain_orange_down.png
+  image-shape: rectangle
+
+---
+
+# Neural ensembles and memory {.title}
+
+## Research group in computational neuroscience {.subtitle}
+
+### Funding: Charles University programme Primus 2024-2028 {.subsubtitle}
+
+![](logotyp_fakulty_rgb8.png "MFF CUNI")
+
+
+
+
