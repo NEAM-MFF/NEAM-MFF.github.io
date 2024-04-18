@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -93,6 +93,7 @@ ul.task-list li input[type="checkbox"] {
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -122,6 +123,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../publications">
  <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog">
+ <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../contact">
@@ -164,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1713208072916" data-listing-reading-time-sort="0.005">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1713218400000" data-listing-file-modified-sort="1713472364040" data-listing-reading-time-sort="0.95">
 <div class="thumbnail">
 <p><a href="../blog/post1_Sanja.html"> <img src="../blog/pics/Sanja_visit_icon_1000px.jpg" class="thumnail-image"> </a></p>
 </div>
@@ -174,15 +179,18 @@ ul.task-list li input[type="checkbox"] {
 We had visitors!
 </h3>
 <div class="listing-subtitle">
-Sanja Bauer Mikulovic and Endre Marosi from the Cognition and Emotion lab, LIN Magdeburg (Germany) visited us in Prague. I am very happy for this to be the first blog post, because Sanja plays an important role in my scientific carreer. Read more.
+Sanja Bauer Mikulovic and Endre Marosi from the Cognition and Emotion lab, LIN Magdeburg (Germany) visited us in Prague.
 </div>
 <div class="listing-description">
-
+Sanja and I first met in 2018 when I was a PhD student at the Research Center Jülich in Germany in the group of Prof.&nbsp;Markus Diesmann and she was a postdoc in the German…
 </div>
 </a>
 </div>
 <div class="metadata">
 <a href="../blog/post1_Sanja.html">
+<div class="listing-date">
+Apr 16, 2024
+</div>
 <div class="listing-author">
 Karolína Korvasová
 </div>
