@@ -1,9 +1,10 @@
 ---
 title: "Blog"
+css: styles.css
 listing:
     contents:
-    - kola.qmd
-    - test.qmd
+    - post1_Sanja.qmd
+    - post2_Elche.qmd
     type: default
     categories: false
     sort-ui: false
