@@ -168,6 +168,27 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+</div>
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-date-sort="1715119200000" data-listing-file-modified-sort="1715198586298" data-listing-reading-time-sort="0.84">
 <div class="thumbnail">
@@ -197,7 +218,35 @@ Karolína Korvasová
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1713218400000" data-listing-file-modified-sort="1713472364040" data-listing-reading-time-sort="0.95">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1716242400000" data-listing-file-modified-sort="1723132536641" data-listing-reading-time-sort="0.345">
+<div class="thumbnail">
+<p><a href="../blog/post3_Barrande.html"> <img src="../blog/pics/Barrande1.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../blog/post3_Barrande.html">
+<h3 class="no-anchor listing-title">
+Katarina won the Barrande fellowship!
+</h3>
+<div class="listing-subtitle">
+Katarína will spend 6 months in the lab of Gabrielle Girardeau at Sorbonne, Paris, thanks to the Barrande and Erasmus programs.
+</div>
+<div class="listing-description">
+We are very proud of Katarína Studeničová who received the Barrade scholarschip from the hands of the French ambassador in Czechia. Thanks to that and an additional Erasmus…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../blog/post3_Barrande.html">
+<div class="listing-date">
+May 21, 2024
+</div>
+<div class="listing-author">
+Karolína Korvasová
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1713218400000" data-listing-file-modified-sort="1713472364040" data-listing-reading-time-sort="0.95">
 <div class="thumbnail">
 <p><a href="../blog/post1_Sanja.html"> <img src="../blog/pics/Sanja_visit_icon_1000px.jpg" class="thumnail-image"> </a></p>
 </div>
