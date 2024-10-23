@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NEAM-MFF.github.io/contact/index.html</loc>
-    <lastmod>2024-09-13T08:14:54.319Z</lastmod>
+    <loc>https://NEAM-MFF.github.io/people/karolina_korvasova/index.html</loc>
+    <lastmod>2024-04-04T14:58:46.080Z</lastmod>
   </url>
   <url>
     <loc>https://NEAM-MFF.github.io/people/katarina_studenicova/index.html</loc>
-    <lastmod>2024-09-13T08:14:54.617Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/people/index.html</loc>
-    <lastmod>2024-09-13T08:14:54.899Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/people/test/team.html</loc>
-    <lastmod>2024-09-13T08:14:55.159Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/people/karolina_korvasova/index.html</loc>
-    <lastmod>2024-09-13T08:14:55.415Z</lastmod>
+    <lastmod>2024-04-04T14:58:46.080Z</lastmod>
   </url>
   <url>
     <loc>https://NEAM-MFF.github.io/people/matej_voldrich/index.html</loc>
-    <lastmod>2024-09-13T08:14:55.658Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/publications/index.html</loc>
-    <lastmod>2024-09-13T08:14:55.944Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/index.html</loc>
-    <lastmod>2024-09-13T08:14:56.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/research/index.html</loc>
-    <lastmod>2024-09-13T08:14:56.462Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/blog/post1_Sanja.html</loc>
-    <lastmod>2024-09-13T08:14:56.766Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/blog/post2_Elche.html</loc>
-    <lastmod>2024-09-13T08:14:57.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/blog/post3_Barrande.html</loc>
-    <lastmod>2024-09-13T08:14:57.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/blog/kola.html</loc>
-    <lastmod>2024-09-13T08:14:57.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NEAM-MFF.github.io/blog/index.html</loc>
-    <lastmod>2024-09-13T08:14:57.883Z</lastmod>
+    <lastmod>2024-04-04T14:58:46.080Z</lastmod>
   </url>
   <url>
     <loc>https://NEAM-MFF.github.io/blog/test.html</loc>
-    <lastmod>2024-09-13T08:14:58.156Z</lastmod>
+    <lastmod>2024-04-04T14:58:46.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/kola.html</loc>
+    <lastmod>2024-04-04T14:58:46.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/index.html</loc>
+    <lastmod>2024-10-23T10:20:01.933Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/index.html</loc>
+    <lastmod>2024-10-23T10:34:24.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/contact/index.html</loc>
+    <lastmod>2024-04-04T14:58:46.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/research/index.html</loc>
+    <lastmod>2024-09-13T07:58:10.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/publications/index.html</loc>
+    <lastmod>2024-04-04T14:58:46.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/post4_conferences_2024.html</loc>
+    <lastmod>2024-10-23T10:43:03.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/post3_Barrande.html</loc>
+    <lastmod>2024-08-08T15:55:36.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/post1_Sanja.html</loc>
+    <lastmod>2024-04-18T20:32:44.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/blog/post2_Elche.html</loc>
+    <lastmod>2024-05-08T20:03:06.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/people/test/team.html</loc>
+    <lastmod>2024-04-04T14:58:46.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NEAM-MFF.github.io/people/index.html</loc>
+    <lastmod>2024-09-03T18:53:47.710Z</lastmod>
   </url>
 </urlset>
