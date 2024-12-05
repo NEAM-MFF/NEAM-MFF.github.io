@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Team"
 
 css: styles.css
 ---
@@ -117,7 +117,7 @@ css: styles.css
 ::: {.g-col-8}
 
 ### Martin Mašek
-**Bachelor student**\
+**Master student**\
 
 [![icon](at_logo.png)](mailto:masekm11@fjfi.cvut.cz)\ 
 
@@ -125,5 +125,43 @@ css: styles.css
 
 :::
 
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![profile](lucka_photo.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Lucie Drahoňovská
+**Master student**\
+
+[![icon](at_logo.png)](mailto:luckadrahonovska@seznam.cz)\ 
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![profile](marek_photo.jpeg)\
+
+:::
+
+::: {.g-col-8}
+
+### Marek Tobiáš
+**Master student**\
+
+[![icon](at_logo.png)](mailto:tobiasma@natur.cuni.cz)\ 
+
+:::
+
+:::
 
 
