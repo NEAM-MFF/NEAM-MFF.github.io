@@ -16,9 +16,11 @@ about:
 
 ## Research group in computational neuroscience {.subtitle}
 
-### Funding: Charles University programme Primus 2024-2028 {.subsubtitle}
+![](group.jpg)
 
 ![](logotyp_fakulty_rgb8.png "MFF CUNI")
+
+
 
 
 

@@ -10,10 +10,12 @@ website:
     left:
       - href: research
         text: Research
-      - href: people
-        text: People
+      - href: team
+        text: Team
       - href: publications
         text: Publications
+      - href: blog
+        text: Blog
       - href: contact
         text: Contact
     #right:
