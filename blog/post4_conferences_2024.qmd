@@ -1,0 +1,31 @@
+---
+title: "2024 Conferencing"
+subtitle: This year we visited several conferences and established a lot of new contacts.
+author:
+    name: Karolína Korvasová
+date: October 23, 2024
+
+image: pics/Katka_poster.jpg
+
+---
+
+I am very happy that we were able to visit three important conferences this year - the FENS meeting in Vienna, Bernstein conference in Frankfurt and the congress of Society for Neuroscience in Chicago. All of them were extremely valuable in different ways. We met people who work on very related topics and so far we did not know each other, got some new ideas for analysis and also met some old friends from around the world. It always so nice to chat with people who are excited about the same topics and exchange our views. 
+
+Katarína presented her work at the PhD conference ENCODS where she scored the third place in a poster competition! 
+
+At the Bernstein conference in Frankfurt, Aitor gave a contributed talk on his previous postdoc work. 
+
+Some pics :)
+
+<div style="text-align: center;">
+
+![](pics/Katka_poster.jpg){width=40%}
+![](pics/Katka_prize.jpg){width=22.5%}\
+
+![](pics/Karolina_poster.jpg){width=22.5%}
+![](pics/Aitor_talk.jpg){width=40%}
+
+</div>
+
+
+

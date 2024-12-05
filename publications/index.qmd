@@ -4,10 +4,12 @@ title: "Publications"
 
 ## Peer-reviewed articles
 
+Morales-Gregorio A., Kurth A. C., Ito J., Kleinjohann A., Barthélemy F., Brochier T., Grün S., van Albada S. J. (2024) Neural manifolds in V1 change with top-down signals from V4 targeting the foveal region. Cell Reports [doi: 10.1016/j.celrep.2024.114371](https://linkinghub.elsevier.com/retrieve/pii/S2211124724006995)
 
 Senk J., Korvasová K., Schuecker J., Hagen E., Tetzlaff T., Diesmann M., and Helias
 M. (2020) Conditions for wave trains in spiking neural networks, Physical Review
 Research 2, [doi: 10.1103/PhysRevResearch.2.023174](https://doi.org/10.1103/PhysRevResearch.2.023174)
+
 
 Diekmann, O., Korvasová, K. (2016) Linearization of solution operators for
 state-dependent delay equations: A simple example, Discrete & Continuous

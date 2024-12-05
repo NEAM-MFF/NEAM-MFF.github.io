@@ -1,0 +1,15 @@
+---
+title: "Katarina won the Barrande fellowship!"
+subtitle: Katarína will spend 6 months in the lab of Gabrielle Girardeau at Sorbonne, Paris, thanks to the Barrande and Erasmus programs.
+author:
+    name: Karolína Korvasová
+date: May 21, 2024
+
+image: pics/Barrande1.jpg
+
+---
+
+We are very proud of Katarína Studeničová who received the Barrade scholarschip from the hands of the French ambassador in Czechia. Thanks to that and an additional Erasmus support, she will spend 6 months in the lab of Gabrielle Girardeau at Sorbonne in Paris. Apart from an international experience, it will give Katarína the opportunity to work in an excellent experimental lab and our group a valuable new collaboration.
+
+![](pics/Barrande2.jpg){width=100%}\
+

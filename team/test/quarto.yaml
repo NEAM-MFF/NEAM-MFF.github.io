@@ -1,0 +1,4 @@
+title: People
+output:
+  quarto::html_document:
+    css: styles.css

@@ -5,9 +5,12 @@ listing:
     contents:
     - post1_Sanja.qmd
     - post2_Elche.qmd
+    - post3_Barrande.qmd
+    - post4_conferences_2024.qmd 
+    - post5_women_in_science.qmd
     type: default
     categories: false
-    sort-ui: false
+    sort-ui: true
     filter-ui: false
     feed: false
 title-block-bannerrR: false

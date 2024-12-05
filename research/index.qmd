@@ -8,9 +8,10 @@ In our current research, we study the spread of memory reactivations across the 
 
 We actively collaborate with several experimental research groups:
 
-- Eduardo Fernandez, MD, PhD, Miguel Hernández University, Elche, Spain
-- Xing Chen, University of Pittsburgh, USA
 - Sanja Mikulovic, Leibniz Center for Neurobiology, Magdeburg, Germany
+- Gabrielle Girardeau, Sorbonne, Paris, France 
+- Eduardo Fernandez, Miguel Hernández University, Elche, Spain
+- Xing Chen, University of Pittsburgh, USA
 
 ## For students
 
