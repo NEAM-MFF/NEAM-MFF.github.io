@@ -164,4 +164,21 @@ css: styles.css
 
 :::
 
+::: {.grid}
+
+::: {.g-col-3}
+
+:::
+
+::: {.g-col-8}
+
+### Romana Roblíková
+**Bachelor student**\
+
+[![icon](at_logo.png)](mailto:roblikor@natur.cuni.cz)\ 
+
+:::
+
+:::
+
 
