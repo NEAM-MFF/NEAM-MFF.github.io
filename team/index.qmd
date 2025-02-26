@@ -18,8 +18,10 @@ css: styles.css
 **Principal investigator**\
 
 [![icon](at_logo.png)](mailto:karolina.korvasova@matfyz.cuni.cz) 
+[![icon](scholar_logo.png)](https://scholar.google.com/citations)
 [![icon](github_logo.png)](https://github.com/kkorvasova)
-[![icon](scholar_logo.png)](https://scholar.google.com/citations?hl=en&user=UPz8zo0AAAAJ)
+[![icon](linkedin_logo.png)](https://www.linkedin.com/in/karol%C3%ADna-korvasov%C3%A1-65202352)
+[![icon](bluesky_logo.svg)](https://bsky.app/profile/neuro-karolina.bsky.social)
 
 :::
 
@@ -38,7 +40,12 @@ css: styles.css
 ### Aitor Morales-Gregorio
 **postdoc, MSCA CZ fellow**\
 
-[![icon](at_logo.png)](mailto:morales-gregorio@ksvi.mff.cuni.cz)\
+[![icon](at_logo.png)](mailto:morales-gregorio@ksvi.mff.cuni.cz)
+[![icon](scholar_logo.png)](https://scholar.google.com/citations?user=DMrZ4XUAAAAJ&hl=de)
+[![icon](github_logo.png)](https://github.com/morales-gregorio)
+[![icon](linkedin_logo.png)](https://www.linkedin.com/in/moralesgregorioaitor/)
+[![icon](bluesky_logo.svg)](https://bsky.app/profile/aitormg.bsky.social)
+
 
 :::
 
@@ -64,6 +71,31 @@ css: styles.css
 :::
 
 :::
+
+
+
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![profile](picture_aliaftab.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Ali Aftab
+**PhD student**\
+
+[![icon](at_logo.png)](mailto:aliaftab1555@gmail.com) 
+[![icon](github_logo.png)](https://github.com/Aliminatorx)
+[![icon](linkedin_logo.png)]( https://www.linkedin.com/in/ali-aftab-367814219/)
+
+:::
+
+:::
+
 
 
 ::: {.grid}
