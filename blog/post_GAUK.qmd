@@ -4,6 +4,8 @@ subtitle: From “what if…” to “we got it!”: a story of forms, brainstor
 author:
     name: Katarína Studeničová
 date: April 9, 2026
+
+image: pics/gauk_pic.png
 ---
 
 The student grant of the Charles University Grant Agency (GAUK) offers PhD candidates a valuable chance to learn how to craft and eventually manage a research grant.
