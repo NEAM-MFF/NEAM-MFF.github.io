@@ -8,6 +8,7 @@ listing:
     - post3_Barrande.qmd
     - post4_conferences_2024.qmd 
     - post5_women_in_science.qmd
+    - post_GAUK.qmd
     type: default
     categories: false
     sort-ui: true
