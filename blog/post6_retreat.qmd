@@ -1,0 +1,37 @@
+---
+title: Retreat 2025
+subtitle: We gathered for one afternoon to discuss work, welcome Ali - a new member of the group and celebrate Aitor's birthday!
+author:
+    name: Karolína Korvasová
+
+date: June 12, 2025
+
+image: pics/retreat/group.jpg
+
+---
+
+It was very nice to spend an afternoon together and listen to what each member of the group works on. Particularly for the master students who do not regularly attend group meetings, this day was a great opportunity to see the broader context of their work and get feedback from others than their supervisor. Everybody could also get to know Ali Aftab who recently joined the group as a PhD candidate and for Ali to get to know the group.
+
+The day was full with a lot of exciting topics - high frequency oscillations, structure of hippocampal neural activity, all the way to the prognosis of multiple sclerosis. I feel very honored to be working with so many talented and friendly colleagues!
+
+How lucky that we could also celebrate Aitor's birthday on that day! :)
+
+
+<div style="text-align: center;">\
+
+![](pics/retreat/group.jpg){width=35%}
+![](pics/retreat/Aitor_Katka.jpg){width=20%}
+![](pics/retreat/Aitor_30.jpg){width=20%}
+![](pics/retreat/Ali3.jpg){width=20%}
+
+</div>
+
+<div style="text-align: center;">\
+
+![](pics/retreat/Lucka.jpg){width=20%}
+![](pics/retreat/Matej.jpg){width=20%}
+![](pics/retreat/Natalia2.jpg){width=35%}
+![](pics/retreat/Martin.jpg){width=20%}
+
+</div>
+
