@@ -1,6 +1,6 @@
 ---
 title: How I got my GAUK Grant
-subtitle: From What if… to We got it!: a story of forms, brainstorming, rewrites, caffeine, and joy of science world.
+subtitle: From What if… to We got it! A story of forms, brainstorming, rewrites, caffeine, and joy of science world.
 author:
     name: Katarína Studeničová
 date: April 9, 2026
