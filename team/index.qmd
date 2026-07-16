@@ -72,7 +72,24 @@ css: styles.css
 
 :::
 
+::: {.grid}
 
+::: {.g-col-3}
+
+![profile](Natalia.jpeg)\
+:::
+
+::: {.g-col-8}
+
+### Natália Komorníková
+**PhD student**\
+
+[![icon](at_logo.png)](mailto:natalia.komornikova@matfyz.cuni.cz)\ 
+
+
+:::
+
+:::
 
 
 ::: {.grid}
@@ -122,26 +139,6 @@ css: styles.css
 
 ::: {.g-col-3}
 
-![profile](Natalia.jpeg)\
-:::
-
-::: {.g-col-8}
-
-### Natália Komorníková
-**Master student**\
-
-[![icon](at_logo.png)](mailto:natalia.komornikova@natur.cuni.cz)\ 
-
-
-:::
-
-:::
-
-
-::: {.grid}
-
-::: {.g-col-3}
-
 ![profile](Martin_small.jpg)\
 
 :::
@@ -157,25 +154,6 @@ css: styles.css
 
 :::
 
-
-::: {.grid}
-
-::: {.g-col-3}
-
-![profile](lucka_photo.jpg)\
-
-:::
-
-::: {.g-col-8}
-
-### Lucie Drahoňovská
-**Master student**\
-
-[![icon](at_logo.png)](mailto:luckadrahonovska@seznam.cz)\ 
-
-:::
-
-:::
 
 ::: {.grid}
 

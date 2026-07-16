@@ -2,6 +2,14 @@
 title: "Publications"
 ---
 
+## Preprints
+
+K. Studeničová, A. Morales Gregorio, Antonio Lozano, Xing Chen, Cristina Soto Sanchez, Eduardo Fernandez, Paolo Papale, Karolína Korvasová (2026) Cell-type-specific coupling of single-unit spikes and cortical ripples in macaque and human V1, bioRxiv, [doi: https://doi.org/10.64898/2026.07.02.736041](https://www.biorxiv.org/content/10.64898/2026.07.02.736041v1)
+
+E. L. Marosi, K.Korvasová, F Ludwig, H. Kaneko, L. Sosulina, T. Tetzlaff, S. Remy, S.. Mikulovic (2021, major update in 2026 including new data) Persistent firing neurons in the medial septum drive arousal and locomotion, bioRxiv, [doi: 10.1101/2021.04.23.441122](https://doi.org/10.1101/2021.04.23.441122)
+
+A. Morales Gregorio, A. C. Kurth, K. Korvasová (2026) Geometric developmental principles for the emergence if brain-like weighted and directed neuronal networks, arXiv, [doi: 10.48550/arXiv.2601.05021](https://doi.org/10.48550/arXiv.2601.05021)
+
 ## Peer-reviewed articles
 
 Morales-Gregorio A., Kurth A. C., Ito J., Kleinjohann A., Barthélemy F., Brochier T., Grün S., van Albada S. J. (2024) Neural manifolds in V1 change with top-down signals from V4 targeting the foveal region. Cell Reports [doi: 10.1016/j.celrep.2024.114371](https://linkinghub.elsevier.com/retrieve/pii/S2211124724006995)
@@ -25,13 +33,6 @@ parameters in Hopf bifurcation studies, Journal of Biological Dynamics 7, [doi: 
 Penington, C.J., Korvasová, K., Hughes, B.D., Landman, K.A. (2012) Collective
 motion of dimers, Physical Review E 86, [doi: 10.1103/PhysRevE.86.051909](https://doi.org/10.1103/PhysRevE.86.051909)
 
-
-## Preprints
-
-
-Korvasová, K., Ludwig, F., Kaneko, H., Sosulina, L., Tetzlaff, T., Remy, S., and
-Mikulovic, S. (2021). Locomotion induced by medial septal glutamatergic neurons is
-linked to intrinsically generated persistent firing. bioRxiv. [doi: 10.1101/2021.04.23.441122](https://doi.org/10.1101/2021.04.23.441122)
 
 
 ## Popular science articles

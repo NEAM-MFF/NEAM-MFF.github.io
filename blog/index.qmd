@@ -8,10 +8,13 @@ listing:
     - post3_Barrande.qmd
     - post4_conferences_2024.qmd 
     - post5_women_in_science.qmd
+    - post6_retreat.qmd
     - post_GAUK.qmd
+    - FENS2026.qmd
     type: default
     categories: false
     sort-ui: true
+    sort: "date desc"
     filter-ui: false
     feed: false
 title-block-bannerrR: false
